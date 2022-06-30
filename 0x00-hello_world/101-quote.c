@@ -2,7 +2,7 @@
 #include<unistd.h>
 
 /*
- * main: Entry Point
+ * main -  Entry Point
  *
  * Description: 'and that piece of art is useful" - Dora Korpar, 2015-10-19'
  *
