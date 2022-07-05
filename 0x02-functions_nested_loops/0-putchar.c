@@ -2,7 +2,7 @@
 #include "main.h"
 
 /*
- * main - Write a program that prints _putchar
+ * main - The program should return 0
  *
  * Description: It prints the word _putchar,, followed by a new line.
  *
