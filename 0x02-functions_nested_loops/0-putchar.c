@@ -1,8 +1,8 @@
 #include <unistd.h>
 #include "main.h"
 
-/*
- * main - The program should return 0
+/**
+ * main - Check Description 
  *
  * Description: It prints the word _putchar,, followed by a new line.
  *
